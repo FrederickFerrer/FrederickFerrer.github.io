@@ -1,0 +1,21 @@
+body{
+	background: url(vggg.jpg);
+	background-size: cover;
+}
+h2{font-style:italic;
+	font-family: sans-serif;
+color: red;
+text-align:center; 
+font-size: 60px;}
+
+a{color: #B1BDD4}
+footer{
+	text-align:center;
+	color: #B1BDD4;
+	font-style: italic;
+}
+
+h1{color: red;
+text-align: center;}
+img{width: 266px;
+height: 232px;}

@@ -1,0 +1,51 @@
+body{
+	background: url(zzzz.jpg);
+	background-size: cover;
+}
+
+div.info{
+	color: #B1BDD4;
+	text-align: center;
+	font-family: serif;
+}
+nav.menu{
+	color: #B1BDD4;
+	text-align: right;
+	font-family: serif;
+	font-size: 40px;
+	font-style: oblique;
+}
+div.data{
+	color: #B1BDD4;
+	text-align: center;
+	font-family: serif;
+}
+h2.blue{
+	color: blue;
+	text-align: center;
+	font-family: cursive;
+}
+h2.skyblue{
+	color: skyblue;
+	text-align: center;
+	font-family: cursive;
+}
+h2.darkblue{
+	color: darkblue;
+	text-align: center;
+	font-family: cursive;
+}
+a{color: #B1BDD4;}
+footer{
+	text-align:center;
+	color: #B1BDD4;
+	font-style: italic;
+}
+h1.ey{
+	color: blue;
+	font-style:italic;
+	font-size: 68px;
+}
+img{
+	border-radius: 50%;
+}

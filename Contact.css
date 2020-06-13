@@ -1,0 +1,21 @@
+body{
+	background: url(vggg.jpg);
+	background-size: cover;
+}
+h1{font-style:italic;
+color: #B1BDD4;}
+
+div.info{
+	color: #B1BDD4;
+	text-align: center;
+	font-family: serif;}
+a{color: #B1BDD4}
+footer{
+	text-align:center;
+	color: #B1BDD4;
+	font-style: italic;
+}
+p {color: gray;
+font-style:oblique;
+text-align: center;
+font-size: 60px;}

@@ -1,0 +1,22 @@
+body{
+	background: url(rhccc.png);
+	background-size: cover;
+	
+}
+h1{
+	color: darkblue;
+	text-align: right;
+	font-family: serif;
+	font-size: 30px;
+}
+div{
+	text-align: right;
+	font-size: 12px;
+}
+button.button
+{
+	border-radius: 50%;
+	border-color: orange;
+	color: orange;
+	border-top-color: orange;
+}
